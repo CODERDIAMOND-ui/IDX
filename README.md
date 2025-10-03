@@ -1,20 +1,36 @@
 # Import Github Repo
-```https://github.com/JishnuTheGamer/vps123```
+```
+https://github.com/JishnuTheGamer/vps123
+```
 # Create VPS
-``` bash <(curl -s https://vps1.jishnu.fun) ```
+``` 
+bash <(curl -s https://vps1.jishnu.fun)
+```
 # Get SSHX
-```curl -sSf https://sshx.io/get | sh -s run```
+```
+curl -sSf https://sshx.io/get | sh -s run
+```
 # Get All Files
-```bash <(curl -s https://raw.githubusercontent.com/RasINGamerZ/Idx-Vps/refs/heads/main/All-File)```
+```
+bash <(curl -s https://raw.githubusercontent.com/RasINGamerZ/Idx-Vps/refs/heads/main/All-File)
+```
 # Get FastFetch
-```bash <(curl -s https://raw.githubusercontent.com/RasINGamerZ/Idx-Vps/refs/heads/main/Fastfetch)```
+```
+bash <(curl -s https://raw.githubusercontent.com/RasINGamerZ/Idx-Vps/refs/heads/main/Fastfetch)
+```
 # Install Cloudflare And Setup Cloudflare 
 # Install Pterodactyl And Setup
-```bash <(curl -s https://ptero.jishnu.fun)```
+```
+bash <(curl -s https://ptero.jishnu.fun)
+```
 # Install Wings And Add to Cloudflare
- ```bash <(curl -s https://ptero.jishnu.fun)```
+ ```
+ bash <(curl -s https://ptero.jishnu.fun)
+```
  # Clone This And cd 1
- ```git clone https://github.com/rasingamerzop/1.git```
+ ```
+ git clone https://github.com/rasingamerzop/1.git
+```
  # Move To BluePrint And Install
  ```
 # Run Nebula
