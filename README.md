@@ -45,4 +45,20 @@ blueprint -install simplefooters.blueprint
 # Run snowflakes
 # echo "Running snowflakes..."
 mv snowflakes.blueprint /var/www/pterodactyl
-blueprint -install snowflakes.blueprint ```
+blueprint -install snowflakes.blueprint
+```
+# 24/7
+```
+sudo apt update && sudo apt upgrade -y
+
+sudo apt install xfce4 xfce4-goodies xrdp -y
+
+echo "startxfce4" > ~/.xsession
+sudo chown $(whoami):$(whoami) ~/.xsession
+
+
+sudo systemctl enable xrdp
+sudo systemctl restart xrdp
+```
+# Add This Extension 
+```https://addons.mozilla.org/en-US/firefox/addon/auto-refresh-page/```
